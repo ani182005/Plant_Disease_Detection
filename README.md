@@ -36,7 +36,7 @@ This project focuses on **automated plant disease detection** using **Convolutio
 - Each folder contains images of diseased and healthy plant leaves.  
 - Classes include *Early Blight, Late Blight, Bacterial Spot, Septoria Leaf Spot, Healthy, etc.*  
 
-> 🔗 [(https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3Z5cVdTaVk5TEZrWmQ2blRWczBmSDFtanBfQXxBQ3Jtc0tsYTZkRW5ZZEV3QldSRVV0SW00d25pY2ZudGRhVl9DRUQ0UnowN25SN0U1c25OSm56cGV6TzJsYjB0NV9yNy1YaE9UWnh4amYtcnhLZjFodFVYcEpCTU1DR1BsZDdSVWlrWUk4N3U1aUliSDJsaGhVUQ&q=https%3A%2F%2Fwww.tensorflow.org%2Fdatasets%2Fcatalog%2Fplant_village&v=0BL42NXimF4)]
+> 🔗 [(https://www.tensorflow.org/datasets/catalog/plant_village)]
 
 ---
 
@@ -60,14 +60,9 @@ The system follows these main stages:
 ✔️ Deployment possible on **ESP32-CAM hardware**  
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*ZP4uEc8x_2LxQFGk3jN5bA.png" alt="Accuracy Graph" width="500"/>
+  <img src=""C:\Users\user\Downloads\img1.png"" alt="Accuracy Graph" width="500"/>
 </p>
 
-Confusion Matrix Heatmap:
-
-<p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*7GxK5iYTxU_izbVgnz1VGA.png" alt="Confusion Matrix" width="500"/>
-</p>
 
 ---
 
