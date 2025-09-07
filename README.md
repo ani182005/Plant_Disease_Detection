@@ -1,8 +1,5 @@
 # 🌿 Plant Disease Detection using Deep Learning & Embedded Systems 🚀
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Tomato_leaf_with_Early_blight.JPG" alt="Plant Leaf" width="500"/>
-</p>
 
 ---
 
@@ -59,9 +56,6 @@ The system follows these main stages:
 ✔️ Successfully reduced model size with TensorFlow Lite  
 ✔️ Deployment possible on **ESP32-CAM hardware**  
 
-<p align="center">
-  <img src=""C:\Users\user\Downloads\img1.png"" alt="Accuracy Graph" width="500"/>
-</p>
 
 
 ---
@@ -97,27 +91,15 @@ The ESP32-CAM runs the compressed **TensorFlow Lite Micro** model and classifies
 
 ---
 
-## 📸 Demo (Screenshots)  
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/61b1bdbb7e2a9b8db0b785c63fc7b60d.gif" alt="Demo GIF" width="500"/>
-</p>
-
 ---
 
 ## 🤝 Contributors  
 
 👨‍💻 **Anirruthan Naarayanan**  
-- 📚 2nd Year Engineering Student @ VIT Chennai  
-- Enthusiast in AI, IoT & Embedded Systems  
+- 📚 3rd Year Electronics Engineer  @ VIT Chennai  
+
 
 ---
 
-## 📝 License  
-
-📜 This project is licensed under the **MIT License**.  
-Feel free to use, modify, and share 🌱.  
-
----
 
 <p align="center">✨ If you like this project, give it a ⭐ on GitHub! ✨</p>
